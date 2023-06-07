@@ -1,0 +1,5 @@
+{
+  "emailAlreadyExists": "user email already exists",
+  "emailNotExists": "email does not exists",
+  "wrongEmailOrPassword": "wrong email or password"
+}
